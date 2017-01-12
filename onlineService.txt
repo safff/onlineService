@@ -1,0 +1,11 @@
+移动端H5 QQ在线客服链接代码
+
+<a href="mqqwpa://im/chat?chat_type=wpa&uin=879250490&version=1&src_type=web&web_src=bjhuli.com">报名咨询</a>
+
+经过测试,安卓和,iOS没有问题,其他手机未测试.
+
+移动端H5 QQ群在线客服链接代码
+
+<a href="mqqapi://card/show_pslcard?src_type=internal&version=1&uin=18863883&card_type=group&source=external">QQ群</a>
+
+通过上面的代码就可以了.
